@@ -1,5 +1,7 @@
 I'm a tech writer and editor with 14+ years of experience in technical documentation. Currently at OpenText, I mainly work on IT Service Management products and a Kubernetes-based container orchestration platform. 
 
+![me](profile pic.png)
+
 Also an occassional cycling coach and one-time archaeologist. 
 
 <!--
